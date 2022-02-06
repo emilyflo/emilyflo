@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emily :star:
 - 👀 I’m interested in learning all the things and making everything work
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: emilyflo.starr@gmail.com
 
 <!---

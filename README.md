@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Emily :star:
+- 👋 Hi, I’m Emily 🌟
 - 👀 I’m interested in learning all the things and making everything work
-- 🌱 I’m currently learning JavaScript
+- 👩‍💻So far, I've learned HTML, CSS, and Vanilla JavaScript.
+- 🌱 I’m currently learning Python 🐍
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: emilyflo.starr@gmail.com
 
